@@ -22,7 +22,7 @@
 ---
 
 Naming things is hard. This sheet attempts to make it easier.
-change 1.2
+change 1.3
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
