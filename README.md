@@ -22,7 +22,10 @@
 ---
 
 Naming things is hard. This sheet attempts to make it easier.
+
 change 3.3
+
+>>>>>>> branch1
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
 ## English language
